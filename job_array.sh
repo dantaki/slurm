@@ -12,5 +12,5 @@ $SEED
 
 # FILE_WITH_COMMANDS is a file that contains the commands you wish to run.
 # For example, the first line could be 'echo "hello world 1"', the second line will be 'echo "hello world 2"' and so on...
-# When initialized, this example will submit the first four lines as a separate job, when one completes the 5th line is submitted
+# When initialized, this example will submit the first four lines each as a separate job, when one completes the 5th line is submitted
 #    until the command on the 8th line is finished. 
